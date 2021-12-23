@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694887784648",
+    "project_id": "mobile-prog-mors",
+    "storage_bucket": "mobile-prog-mors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694887784648:android:e07b0550bbac34bdf745fd",
+        "android_client_info": {
+          "package_name": "com.example.mobile_prog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694887784648-s4m42alnbqj18mdmoio80ptkjqho4m0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIBNu8wqmfq1Nawk9oXsiu-2AfNUwvvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694887784648-s4m42alnbqj18mdmoio80ptkjqho4m0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
